@@ -1,6 +1,6 @@
 {
-  "version": "0.1.0",
-  "url": "https://vadoimichi83.github.io/cozytag-ota/cozy-tag-0.1.0.zip",
-  "checksum": "aa6deaa08979d94d0901df0765b3b4ecb7ebd10b1786f789096589fd1409219a",
-  "notes": "First OTA channel"
+  "version": "0.1.1",
+  "url": "https://vadoimichi83.github.io/cozytag-ota/cozy-tag-0.1.1.zip",
+  "checksum": "3fc073a03fabeecc1126db668487c31b393c74b8e49159029067f1dd3c469700",
+  "notes": "Десятичный ввод, компактная главная, Идеи"
 }
