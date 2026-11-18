@@ -1,4 +1,4 @@
-OTA bundle 0.1.2
+OTA bundle 0.1.3
 
 1) Upload ALL files from this folder to a free HTTPS host
    (GitHub Pages, Cloudflare Pages, Netlify…).
@@ -10,5 +10,5 @@ OTA bundle 0.1.2
 5) Later updates: only re-upload a new zip + updates.json
    (bump version). Clients get a prompt — no new APK.
 
-checksum sha256: 6630b4f4e518d841968e604b90f95e582268512c368f4e979a56801fb7b1d909
-zip: cozy-tag-0.1.2.zip
+checksum sha256: a2a927b59697c18bcfe808e465ca97aeb51abb2a4d389eb8b6082f24f9299b8f
+zip: cozy-tag-0.1.3.zip
