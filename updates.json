@@ -1,6 +1,6 @@
 {
-  "version": "0.1.3",
-  "url": "https://vadoimichi83.github.io/cozytag-ota/cozy-tag-0.1.3.zip",
-  "checksum": "a2a927b59697c18bcfe808e465ca97aeb51abb2a4d389eb8b6082f24f9299b8f",
-  "notes": "Языки интерфейса: RU/EN/ES/FR/DE, экран выбора при первом запуске"
+  "version": "0.1.4",
+  "url": "https://vadoimichi83.github.io/cozytag-ota/cozy-tag-0.1.4.zip",
+  "checksum": "0854630ffcf9144bc458f858e131303bf58b14927c9268f8d9b7e3beba952d50",
+  "notes": "Объёмные иконки направлений в создании проекта и расчёте"
 }
